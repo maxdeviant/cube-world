@@ -11,3 +11,9 @@
 - Talk to NPCs
 
 [Source 1](https://twitter.com/wol_lay/status/1175693715563827200) [Source 2](https://twitter.com/wol_lay/status/1176073042113564672)
+
+## Pets
+
+### Naming
+
+You can use `/namepet <name>` to give your pet a name.
